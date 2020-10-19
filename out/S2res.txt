@@ -1,0 +1,15 @@
+654.770785898244
+652.0544807935329
+Tilpassede verdier:
+S0=		2.737422e+02 mm
+A=		4.810414e+01 mm
+Alpha=	8.768085e-04 1/s
+w=		9.596007e-03 (rad)/s
+T0=		6.520545e+02 s
+phi=	-1.486914e+00 (rad)
+Usikkerheter:
+dS0=	1.335722e+00 mm
+dA=		6.275220e+00 mm
+dAlpha=	1.855381e-041/s
+dw=		1.673997e-04 (rad)/s
+dphi=	1.119676e-01 (rad)
